@@ -44,7 +44,7 @@ But it doesn't stop there! I can also spin up a backend server with NodeJS, Expr
 
 But the real cherry on top? I do all of this with the help of my trusty code editor, Visual Studio Code.
 
-So if you're looking for someone who can handle all aspects of web development with a sense of humor, I'm your guy (or gal)."
+So if you're looking for someone who can handle all aspects of web development with a sense of humor, I'm your guy."
 
 ---
 
