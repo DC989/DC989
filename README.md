@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-    body{
-        background-color: #201e1d;
-    }
-</style>
-
 <div id="header" align="center">
     <img src="https://media.discordapp.net/attachments/1057622401598369865/1057994719470305341/Hanzo_Hasashi_simplistic_logo_using_this_initials_DC_80s_style__07b7f1f0-d318-4f0b-b649-6d7e246ed095.png" width="200"/>
   <div id="badges">
@@ -68,6 +62,8 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DC989&theme=dark&background=201e1d)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DC989&theme=highcontrast&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DC989&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DC989&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
