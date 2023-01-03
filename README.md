@@ -37,8 +37,14 @@ Here are some ideas to get you started:
 
 ---
 
-### :man_dancing: About Me:
-I'm a Frontend Developer from Serbia.
+### :man_dancing: About Me :robot: ChatGPT style:
+"Hi there! I'm a web developer with a seemingly never-ending toolkit of skills. I can build beautiful, responsive websites with HTML5, CSS3, and Bootstrap5 (or Tailwind CSS if that's your thing). I can make them interactive and dynamic with JavaScript, TypeScript, and jQuery (or React and Material UI if you're into that).
+
+But it doesn't stop there! I can also spin up a backend server with NodeJS, Express.js, and NPM, and connect it to a database like MongoDB or MySQL. And when it's time to deploy, I've got you covered with DigitalOcean and Git/GitHub.
+
+But the real cherry on top? I do all of this with the help of my trusty code editor, Visual Studio Code.
+
+So if you're looking for someone who can handle all aspects of web development with a sense of humor, I'm your guy (or gal)."
 
 ---
 
@@ -54,14 +60,14 @@ I'm a Frontend Developer from Serbia.
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="DigitalOcean"  alt="DigitalOcean" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" **alt="Visual Studio Code" width="40" height="40"/>
 </div>
 
 ---
